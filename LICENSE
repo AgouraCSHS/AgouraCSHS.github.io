@@ -1,5 +1,4 @@
 AgouraCSHS (c) 2018
-Hack Club (c)
 
 Code in this repository (AgouraCSHS.github.io), unless specified elsewhere in this
 document, including embedded code in other content, is licensed under the MIT
@@ -11,3 +10,7 @@ You have received a copy of the MIT and Creative Commons licenses along with
 this work in the MIT_LICENSE and CC_BY-SA_LICENSE files, respectively. An online
 version of the Creative Commons license is available at
 <https://creativecommons.org/licenses/by-sa/4.0/>.
+
+--------------------------------------------------------------------------------
+
+This work, "LICENSE", is a derivative of "LICENSE" by Hack Club (available at  https://raw.githubusercontent.com/hackclub/hackclub/v1.5.0/LICENSE), used under CC BY-SA 4.0.
