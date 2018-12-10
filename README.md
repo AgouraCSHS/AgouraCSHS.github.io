@@ -1,5 +1,7 @@
 ## Agoura Computer Science Club
 
+This is for Agoura High School - Under construction!
+
 You can use the [editor on GitHub](https://github.com/AgouraCSHS/AgouraCSHS.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
