@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Agoura Computer Science Club
 
 You can use the [editor on GitHub](https://github.com/AgouraCSHS/AgouraCSHS.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
