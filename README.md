@@ -15,6 +15,10 @@ This Challenge from Hack Club is all about giving back for the holidays, with pr
 Submissions due 12/26/2018.
 The Subject is very simple - make a program related to gifts, perferably as a gift to someone or the programming community at large.
 There are no strict requirements - the Hack Club community will vote on what they like best!
+Read More Here - https://hackclub.com/challenge.
+
+### Hack Club: Slack
+Want more information of Hack Club contests? Join the Hack Club slack!
 
 ### Remind
 Text @agouracshs to 81010 to join our Remind!
