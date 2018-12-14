@@ -7,8 +7,7 @@ This year, we are a chapter of Hack Club. Join our Remind to hear of cool hackat
 We meet every Friday in Room L5.
 
 ### Hack Club: Personal Website Workshop
-This workshop from Hack Club uses Repl.it
-In order to start, please go to this link - [repl.it/languages/html](https://repl.it/languages/html)
+Here for the Website Workshop?  - [Click Here](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
 
 ### Hack Club: Holiday Challenge
 This Challenge from Hack Club is all about giving back for the holidays, with prizes up to $300!
