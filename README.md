@@ -8,14 +8,14 @@ We meet every Friday in Room L5.
 
 ### Hack Club: Personal Website Workshop
 This workshop from Hack Club uses Repl.it
-In order to start, please go to this link - (repl.it/languages/html)[https://repl.it/languages/html]
+In order to start, please go to this link - (https://repl.it/languages/html)
 
 ### Hack Club: Holiday Challenge
 This Challenge from Hack Club is all about giving back for the holidays, with prizes up to $300!
 Submissions due 12/26/2018.
 The Subject is very simple - make a program related to gifts, perferably as a gift to someone or the programming community at large.
 There are no strict requirements - the Hack Club community will vote on what they like best!
-Read More Here - https://hackclub.com/challenge.
+Read More Here - (https://hackclub.com/challenge).
 
 ### Hack Club: Slack
 Want more information of Hack Club contests? Join the Hack Club slack!
