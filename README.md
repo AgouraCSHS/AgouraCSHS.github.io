@@ -18,7 +18,7 @@ There are no strict requirements - the Hack Club community will vote on what the
 Read More Here - [hackclub.com/challenge](https://hackclub.com/challenge).
 
 ### Hack Club: Slack
-Want more information of Hack Club contests? Join the Hack Club slack!
+Want more information of Hack Club contests? [Join the Hack Club slack!](https://hackclub.com/slack_invite/)
 
 ### Remind
 Text @agouracshs to 81010 to join our Remind!
